@@ -1,2 +1,3 @@
 # edit_in_place
 就地编辑
+JavaScript就地编辑ES5和ES6两个版本实现
